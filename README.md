@@ -1,1 +1,1 @@
-Used pandas and the Sharpe Ratio to calculate and compare profitability for each assumed unit of risk, with respect to the S&P 500, for Amazon and Facebook in 2016.
+Used pandas and the Sharpe Ratio to calculate and compare, with respect to the S&P 500, profitability for Amazon and Facebook in 2016, resulting in a data-driven investment choice that produces 2x the return for each assumed unit of risk.
